@@ -11,7 +11,7 @@
         <p> Teste Sugestão SAS Team ( Versão 01 )</p>
         
         <div class="field">
-            <label for="nome">Seu Nome:</label>
+            <label for="nome">Sua Chave:</label>
             <input type="text" id="nome" name="nome" placeholder="Digite seu nome*" required>
         </div>
         
